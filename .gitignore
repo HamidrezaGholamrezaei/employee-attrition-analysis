@@ -215,3 +215,7 @@ Thumbs.db
 
 # Local data files
 data/*.csv
+
+# Saved models
+models/*.pkl
+models/*.pickle
